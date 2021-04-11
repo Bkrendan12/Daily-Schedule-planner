@@ -36,11 +36,11 @@ If you close out of the day planner and reopen it, you wont lose any information
 
 Link to webpage:
 
-[Daily-planner]()
+[Daily-planner](https://bkrendan12.github.io/Daily-Schedule-planner/)
+
+Desired additions: I'd like to add a more visually pleasing style to the page, but for a basic day-to-day planner, it's extremely clean and useful.
 
 Contribute:
-
-If anything, this application is pretty polished, but I'd like to avoid users using any numbers as thir name for the highscores and I'd like to add more questions which will result in increasing the time the user will have to complete the questions.
 
 If you would like to do the same, youre welcome to use this as starter code.
 
